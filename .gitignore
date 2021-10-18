@@ -1,4 +1,3 @@
-
 # Created by https://www.toptal.com/developers/gitignore/api/node,windows,linux,macos
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,windows,linux,macos
 
@@ -165,10 +164,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
-
-### Node Patch ###
-# Serverless Webpack directories
-.webpack/
 
 ### Windows ###
 # Windows thumbnail cache files
